@@ -1,0 +1,6 @@
+{
+  points = 0,
+  playtime = 83,
+  rank = 4,
+  karma = 1000,
+}
